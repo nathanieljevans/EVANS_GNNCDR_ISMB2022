@@ -7,4 +7,10 @@ Ineffective or limited precision oncology treatments are a cause of patient mort
 
 # References 
 
+1. Protein Bioinformatics: From Protein Modifications and Networks to Proteomics (eds. Wu, C. H., Arighi, C. N. & Ross, K. E.) 235–253 (Springer, 2017). doi:10.1007/978-1-4939-6783-4_11.
+2.	Subramanian, A. et al. A Next Generation Connectivity Map: L1000 Platform and the First 1,000,000 Profiles. Cell 171, 1437-1452.e17 (2017).
+3.	LINCS Data Portal 2.0: next generation access point for perturbation-response signatures | Nucleic Acids Research | Oxford Academic. https://academic.oup.com/nar/article/48/D1/D431/5614562.
+4.	Defining a Cancer Dependency Map: Cell. https://www.cell.com/cell/fulltext/S0092-8674(17)30651-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867417306517%3Fshowall%3Dtrue.
+5.	Barretina, J. et al. The Cancer Cell Line Encyclopedia enables predictive modelling of anticancer drug sensitivity. Nature 483, 603–607 (2012).
+6.	Ghandi, M. et al. Next-generation characterization of the Cancer Cell Line Encyclopedia. Nature 569, 503–508 (2019).
 
